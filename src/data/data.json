@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "name": "web design",
+        "body": "Lorem ipsum dolor sit amet, consectetur a ac turpis egestas. Ut mattis finibus felis, Pellentesque habitant morbi tristique senectus et netus et malesuada  id eleifend dolor.",
+        "footer": "https://youtube.com/playlist?list=PLYnK4UMf4VuLQgwAm0kaDDb0rrPaeG7aW",
+       "favColor": "courses"
+    },
+    {
+        "id":2,
+        "name": "web-developer",
+        "body": "Lorem ipsum dolor sit amet, consectetur a ac turpis egestas. Ut mattis finibus felis, Pellentesque habitant morbi tristique senectus et netus et malesuada  id eleifend dolor.",
+        "footer": "https://youtu.be/Q33KBiDriJY",
+       "favColor": "courses"
+    },
+    {
+        "id":3,
+        "name":"programmer-python",
+        "body": "Lorem ipsum dolor sit amet, consectetur a ac turpis egestas. Ut mattis finibus felis, Pellentesque habitant morbi tristique senectus et netus et malesuada  id eleifend dolor.",
+        "footer":"https://youtu.be/gfDE2a7MKjA",
+        "favColor":"courses"
+    },
+    {
+        "id":4,
+        "name": "graphic",
+        "body": "Lorem ipsum dolor sit amet, consectetur a ac turpis egestas. Ut mattis finibus felis, Pellentesque habitant morbi tristique senectus et netus et malesuada  id eleifend dolor.",
+        "footer": "https://youtu.be/BSqWN547DPI",
+       "favColor": "courses"
+    },
+    {
+        "id":5,
+        "name":"programmer-c",
+        "body": "Lorem ipsum dolor sit amet, consectetur a ac turpis egestas. Ut mattis finibus felis, Pellentesque habitant morbi tristique senectus et netus et malesuada  id eleifend dolor.",
+        "footer":"https://youtu.be/KJgsSFOSQv0",
+        "favColor":"courses"
+    },
+    {
+        "id":6,
+        "name":"programmer-java",
+        "body": "Lorem ipsum dolor sit amet, consectetur a ac turpis egestas. Ut mattis finibus felis, Pellentesque habitant morbi tristique senectus et netus et malesuada  id eleifend dolor.",
+        "footer":"https://youtu.be/eIrMbAQSU34",
+        "favColor":"courses"
+    }
+]
